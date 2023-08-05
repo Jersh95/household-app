@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290135771327",
+    "project_id": "household-app-96124",
+    "storage_bucket": "household-app-96124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290135771327:android:f2a7e74036f6bb4b5a5e0a",
+        "android_client_info": {
+          "package_name": "com.jersh.householdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290135771327-q4gui734e30ondiph5fnl0ats3ppt07a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0XZkqssbNCPwGSKoXS7ibQszM_PgUIGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290135771327-q4gui734e30ondiph5fnl0ats3ppt07a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
